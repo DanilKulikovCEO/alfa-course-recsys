@@ -142,11 +142,11 @@ style: |
       <span class="badge badge-green">Код проверен • 8/8 тестов пройдены</span>
     </div>
     <div style="font-family: monospace; background: #1F2229; color: #F9FAFB; padding: 10px 14px; border-radius: 8px; font-size: 14px; margin-bottom: 10px;">
-      git clone https://github.com/ArseniyNov52/alfa-course-recsys.git<br>
+      git clone https://github.com/DanilKulikovCEO/alfa-course-recsys.git<br>
       cd alfa-course-recsys &amp;&amp; docker compose up --build
     </div>
     <div style="display: flex; justify-content: space-between; font-size: 14px; color: #4B5563;">
-      <span>Репозиторий: <a href="https://github.com/ArseniyNov52/alfa-course-recsys" style="color: #EF3124; font-weight: bold; text-decoration: none;">github.com/ArseniyNov52/alfa-course-recsys</a></span>
+      <span>Репозиторий: <a href="https://github.com/DanilKulikovCEO/alfa-course-recsys" style="color: #EF3124; font-weight: bold; text-decoration: none;">github.com/DanilKulikovCEO/alfa-course-recsys</a></span>
       <span>Веб-сервис: <b>http://localhost:8000</b></span>
     </div>
   </div>
@@ -528,7 +528,7 @@ style: |
     </div>
 
     <div style="border-top: 1px solid #FCD4D1; padding-top: 10px; font-size: 14px; color: #1F2229;">
-      Репозиторий открыт: <b>github.com/ArseniyNov52/alfa-course-recsys</b>
+      Репозиторий открыт: <b>github.com/DanilKulikovCEO/alfa-course-recsys</b>
     </div>
   </div>
 </div>

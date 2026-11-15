@@ -4,7 +4,7 @@
 > **Кейс**: АО «Альфа-Банк» — «Альфа-Курс: знания в нужный момент»  
 > **Трек**: Трек 1 — Персональные рекомендации образовательных материалов  
 > **Доступ для жюри**: `hack-and-change-2026`  
-> **Ссылка на репозиторий**: [https://github.com/ArseniyNov52/alfa-course-recsys](https://github.com/ArseniyNov52/alfa-course-recsys)
+> **Ссылка на репозиторий**: [https://github.com/DanilKulikovCEO/alfa-course-recsys](https://github.com/DanilKulikovCEO/alfa-course-recsys)
 
 ---
 
